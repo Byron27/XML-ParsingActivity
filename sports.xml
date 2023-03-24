@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sports>
+    <Sport id="1">
+        <Name>Volleyball</Name>
+        <Team>Creamline Cool Smashers</Team>
+        <Coach>Sherwin Meneses</Coach>
+        <Arena>Mall of Aisa Arena</Arena>
+        <Championship>4 championships</Championship>
+        <Players>
+            <Player1>Alyssa Valdez</Player1>
+            <Player2>Jema Galanza</Player2>
+            <Player3>Tots Carlos</Player3>
+            <Player4>Jia Morado</Player4>
+            <Player5>Kyla Atienza</Player5>
+        </Players>
+    </Sport>
+
+    <Sport id="2">
+        <Name>Basketball</Name>
+        <Team>Barangay Ginebra San Miguel</Team>
+        <Coach>Tim Cone</Coach>
+        <Arena>Smart Araneta Coliseum</Arena>
+        <Championship>13 championships</Championship>
+        <Players>
+            <Player1>Japeth Aguilar</Player1>
+            <Player2>Stanley Pringle</Player2>
+            <Player3>LA Tenorio</Player3>
+            <Player4>Joe Devance </Player4>
+            <Player5>Jeff chan</Player5>
+        </Players>
+    </Sport>
+
+    <Sport id="3">
+        <Name>Soccer</Name>
+        <Team>Azkals Development Team</Team>
+        <Coach>Scott Cooper</Coach>
+        <Arena>National Training Center (Carmona, Cavite)</Arena>
+        <Championship>has not yet won any international championships</Championship>
+        <Players>
+            <Player1>James De Los Santos</Player1>
+            <Player2>Vincent Erik Lovitos</Player2>
+            <Player3>Kintaro Miyagi</Player3>
+            <Player4>Justine Baas</Player4>
+            <Player5>Kent Galaura</Player5>
+        </Players>
+    </Sport>
+
+    <Sport id="4" >
+        <Name>Water Polo</Name>
+        <Team>Ateneo Blue Tankers Team</Team>
+        <Coach>Randolph "Randy" Dizon</Coach>
+        <Arena>Rizal Memorial Sports Complex</Arena>
+        <Championship>9 championships</Championship>
+        <Players>
+            <Player1>Mico Anota</Player1>
+            <Player2>Wacky Reyes</Player2>
+            <Player3>Diego Villarino</Player3>
+            <Player4>Ian Lapuz</Player4>
+            <Player5>Marte Gil</Player5>
+        </Players>
+    </Sport>
+
+    <Sport id="5" >
+       <Name>Hockey</Name>
+        <Team>Philippine Ice Hockey team</Team>
+        <Coach>Daniel Brodan</Coach>
+        <Arena>MOA Ice Skating Rink (Pasay city)</Arena>
+        <Championship>has not yet won any international championships</Championship>
+        <Players>
+            <Player1>Carl Montano</Player1>
+            <Player2>Lenard Lancero</Player2>
+            <Player3>Julian Santiago</Player3>
+            <Player4>Miguel Serano</Player4>
+            <Player5>Steven Fuglister</Player5>
+        </Players>
+    </Sport>
+</Sports>
